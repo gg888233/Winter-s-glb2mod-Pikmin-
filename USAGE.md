@@ -61,7 +61,7 @@ py -3 -m pip install numpy pygltflib pillow pywebview
 * **I recommend using Meltytool to view your exported .MOD files.**
 * **The game seems to only accept image textures downscaled 1-128 times. Thankfully, there is a downscaler in the converter.**
 * **You must note use a model with too many vertices.**
-* **Materials currently only import with textures. If your mesh has no textures, or a base colore instead, in the game it will appear as gray.**
+* **Materials currently only import with textures. If your mesh has no textures, or a base color instead, in the game it will appear as gray.**
 
 
 
@@ -71,5 +71,6 @@ py -3 -m pip install numpy pygltflib pillow pywebview
 
 * **Work on a Local GUI**
 * **Clean up code**
+
 
 
