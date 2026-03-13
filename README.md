@@ -28,7 +28,7 @@ out.mod: the name can be anything, just make sure to keep the .mod at the end of
 Current Limitations
 
 You must join all of the objects in the mesh for it to work. Textures will be connected into one big material.
-If converting a skinned mesh, you must use the same bones as the armature of the model you are replacing in the game! Take not that even ship parts have an armature, so be careful and rig your models accordingly.
+If converting a skinned mesh, you must use the same bones as the armature of the model you are replacing in the game! Take note that even ship parts have an armature, so be careful and rig your models accordingly.
 I recommend using Meltytool to view your exported .MOD files.
 The game seems to only accept image textures downscaled 1-128 times. Thankfully, there is a downscaler in the converter.
 
